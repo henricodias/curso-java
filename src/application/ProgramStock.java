@@ -7,6 +7,7 @@ import entities.Product;
 public class ProgramStock {
 
     public static void main(String[] args) {
+        /*
 
         Locale.setDefault(Locale.US);
         Scanner scanner = new Scanner(System.in);
@@ -27,7 +28,6 @@ public class ProgramStock {
         System.out.println(product.name);
         System.out.println(product.price);
         System.out.println(product.quantity);
-        */
 
         System.out.printf("Product data: %s\n", product);
         System.out.println("Enter the number of products to be added in stock: ");
@@ -43,6 +43,10 @@ public class ProgramStock {
 
 
         scanner.close();
+
+         */
+
     }
 
 }
+
