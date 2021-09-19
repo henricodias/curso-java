@@ -2,7 +2,7 @@ package application;
 
 import java.util.Scanner;
 import java.util.Locale;
-import entities.Triangle;
+import model.entities.Triangle;
 
 public class ProgramTriangle {
 

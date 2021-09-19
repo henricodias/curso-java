@@ -1,4 +1,4 @@
-package entities;
+package model.entities;
 
 public class BusinessAccount extends Account { //a classe A herda tudo que a classe B possui
 

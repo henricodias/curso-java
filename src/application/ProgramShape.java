@@ -1,9 +1,9 @@
 package application;
 
-import entities.Circle;
-import entities.Rectangle;
-import entities.Shape;
-import entities.enums.Color;
+import model.entities.Circle;
+import model.entities.Rectangle;
+import model.entities.Shape;
+import model.entities.enums.Color;
 
 import java.util.ArrayList;
 import java.util.List;

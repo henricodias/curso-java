@@ -1,9 +1,5 @@
 package application;
 
-import java.util.Scanner;
-import java.util.Locale;
-import entities.Product;
-
 public class ProgramStock {
 
     public static void main(String[] args) {
