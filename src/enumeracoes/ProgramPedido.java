@@ -1,7 +1,7 @@
 package enumeracoes;
 
 import model.entities.Order;
-import model.entities.enums.OrderStatus;
+import model.enums.OrderStatus;
 
 import java.util.Date;
 

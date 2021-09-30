@@ -3,7 +3,7 @@ package composicao;
 import model.entities.Department;
 import model.entities.HourContract;
 import model.entities.Worker;
-import model.entities.enums.WorkerLevel;
+import model.enums.WorkerLevel;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

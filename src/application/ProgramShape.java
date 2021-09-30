@@ -3,7 +3,7 @@ package application;
 import model.entities.Circle;
 import model.entities.Rectangle;
 import model.entities.Shape;
-import model.entities.enums.Color;
+import model.enums.Color;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
 package model.entities;
 
-import model.entities.enums.WorkerLevel;
+import model.enums.WorkerLevel;
 
 import java.util.ArrayList;
 import java.util.Calendar;
